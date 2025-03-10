@@ -1,1 +1,2 @@
-# bert_model
+# This project is done to complete one of the requirements of APU's bachelor degree.
+Job review is done using Aspect based Sentiment Analysis supported with a few Machine Learning and a Deep Learning models in support of exploring the world of NLP and Text-based Classification
